@@ -1,6 +1,6 @@
 # DAVIS Real-Time UDP Communication
 
-[![Paper](https://img.shields.io/badge/Paper-10.1007/978-3-031-64553-2_41-blue)](https://doi.org/10.1007/978-3-031-64553-2_41)
+[![Paper](https://img.shields.io/badge/Paper-10.1007/978--3--031--64553--2__41-blue)](https://doi.org/10.1007/978-3-031-64553-2_41)
 
 ## Introduction
 
